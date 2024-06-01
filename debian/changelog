@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-max-sum-base32768 (0.0~git20191205.7937843-2) unstable; urgency=medium
 
-  * Initial release
+  * source-only upload for migration to testing
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Drew Parsons <dparsons@debian.org>  Wed, 23 Nov 2022 10:47:15 +0100
+
+golang-github-max-sum-base32768 (0.0~git20191205.7937843-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024424)
+
+ -- Drew Parsons <dparsons@debian.org>  Sat, 19 Nov 2022 11:28:42 +0100
